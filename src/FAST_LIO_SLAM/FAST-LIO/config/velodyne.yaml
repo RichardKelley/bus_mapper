@@ -1,0 +1,26 @@
+common:
+    lid_topic:  "downsampled_cloud"
+    imu_topic:  "vectornav/IMU"
+    time_sync_en: true
+    
+preprocess:
+    lidar_type: 2     
+    scan_line: 128
+    blind: 4
+
+mapping:
+    acc_cov: 0.5 # 8.366964297274383e-05  # 0.1
+    gyr_cov: 0.5 # 5.666664733909812e-05 # 0.1
+    b_acc_cov: 0.5 # 0.0013540652205723458  # 0.0001
+    b_gyr_cov: 0.5 # 7.485107945928405e-07  # 0.0001
+    fov_degree:    180
+    det_range:     100.0
+    extrinsic_T: [ 0, 0, 0.0]
+    extrinsic_R: [ 1, 0, 0, 
+                   0, 1, 0, 
+                   0, 0, 1]
+
+publish:     
+    scan_publish_en:  true       # 'false' will close all the point cloud output
+    dense_publish_en: true       # false will low down the points number in a global-frame point clouds scan.
+    scan_bodyframe_pub_en: true  # output the point cloud scans in IMU-body-frame

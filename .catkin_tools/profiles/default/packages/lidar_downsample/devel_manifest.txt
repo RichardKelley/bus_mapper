@@ -1,0 +1,13 @@
+lidar_downsample
+/data/bus_mapper/devel/.private/lidar_downsample/cmake.lock /data/bus_mapper/devel/./cmake.lock
+/data/bus_mapper/devel/.private/lidar_downsample/share/lidar_downsample/cmake/lidar_downsampleConfig.cmake /data/bus_mapper/devel/share/lidar_downsample/cmake/lidar_downsampleConfig.cmake
+/data/bus_mapper/devel/.private/lidar_downsample/share/lidar_downsample/cmake/lidar_downsampleConfig-version.cmake /data/bus_mapper/devel/share/lidar_downsample/cmake/lidar_downsampleConfig-version.cmake
+/data/bus_mapper/devel/.private/lidar_downsample/share/lidar_downsample/docs/DownsampleConfig.dox /data/bus_mapper/devel/share/lidar_downsample/docs/DownsampleConfig.dox
+/data/bus_mapper/devel/.private/lidar_downsample/share/lidar_downsample/docs/DownsampleConfig-usage.dox /data/bus_mapper/devel/share/lidar_downsample/docs/DownsampleConfig-usage.dox
+/data/bus_mapper/devel/.private/lidar_downsample/share/lidar_downsample/docs/DownsampleConfig.wikidoc /data/bus_mapper/devel/share/lidar_downsample/docs/DownsampleConfig.wikidoc
+/data/bus_mapper/devel/.private/lidar_downsample/lib/python3/dist-packages/lidar_downsample/__init__.py /data/bus_mapper/devel/lib/python3/dist-packages/lidar_downsample/__init__.py
+/data/bus_mapper/devel/.private/lidar_downsample/lib/python3/dist-packages/lidar_downsample/cfg/DownsampleConfig.py /data/bus_mapper/devel/lib/python3/dist-packages/lidar_downsample/cfg/DownsampleConfig.py
+/data/bus_mapper/devel/.private/lidar_downsample/lib/python3/dist-packages/lidar_downsample/cfg/__init__.py /data/bus_mapper/devel/lib/python3/dist-packages/lidar_downsample/cfg/__init__.py
+/data/bus_mapper/devel/.private/lidar_downsample/lib/pkgconfig/lidar_downsample.pc /data/bus_mapper/devel/lib/pkgconfig/lidar_downsample.pc
+/data/bus_mapper/devel/.private/lidar_downsample/lib/lidar_downsample/lidar_downsample_node /data/bus_mapper/devel/lib/lidar_downsample/lidar_downsample_node
+/data/bus_mapper/devel/.private/lidar_downsample/include/lidar_downsample/DownsampleConfig.h /data/bus_mapper/devel/include/lidar_downsample/DownsampleConfig.h
